@@ -16,7 +16,7 @@ lpTag.sdes.push({
     "numItems": "1",
     "products": [{
         "product": {
-            "name": "Title : Shop Online",
+            "name": "Title : Jewellery Shopping",
             "category": " ",
             "price": " "
         }
