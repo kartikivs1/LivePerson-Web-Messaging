@@ -1,6 +1,7 @@
+
 $(document).ready(async function () {
 
-  let pageTitle = 'Shop Online';
+  let pageTitle = 'Jewellery Shopping';
   let cartTotal = 777;
   appendData();
 
@@ -31,3 +32,4 @@ $(document).ready(async function () {
 
 
 });
+
